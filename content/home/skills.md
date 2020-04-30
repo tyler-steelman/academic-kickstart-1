@@ -20,6 +20,11 @@ subtitle = ""
   name = "R"
   
 [[feature]]
+  icon = "globe_europe"
+  icon_pack = "fas"
+  name = "ArcGIS"
+  
+[[feature]]
   icon = "html5"
   icon_pack = "fab"
   name = "HTML 5" 
@@ -28,5 +33,15 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
+  
+[[feature]]
+  icon = "globe_americas"
+  icon_pack = "fas"
+  name = "QGIS"
+  
+[[feature]]
+  icon = "js-square"
+  icon_pack = "fab"
+  name = "JavaScript"
 
 +++
