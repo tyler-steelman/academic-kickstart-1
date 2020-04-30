@@ -21,9 +21,9 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "chtml5"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "HTML"
   description = "100%"  
   
 [[feature]]
