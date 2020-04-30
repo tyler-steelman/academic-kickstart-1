@@ -15,7 +15,7 @@ role: 4th Year PhD Candidate in American Politics
 # Organizations/Affiliations
 organizations:
 - name: University of North Carolina at Chapel Hill
-  url: https://politicalscience.unc.edu
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include representation, gerrymandering and redistricting, and survey research.
@@ -44,21 +44,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:tsteelman@unc.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: ''  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=01S6ydcAAAAJ
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/tyler-steelman
+  link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
