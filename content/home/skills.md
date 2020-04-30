@@ -20,7 +20,7 @@ subtitle = ""
   name = "R"
   
 [[feature]]
-  icon = "globe_europe"
+  icon = "globe-europe"
   icon_pack = "fas"
   name = "ArcGIS"
   
@@ -35,7 +35,7 @@ subtitle = ""
   name = "Python"
   
 [[feature]]
-  icon = "globe_americas"
+  icon = "globe-americas"
   icon_pack = "fas"
   name = "QGIS"
   
