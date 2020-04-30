@@ -15,7 +15,7 @@ role: 4th Year PhD Candidate in American Politics
 # Organizations/Affiliations
 organizations:
 - name: University of North Carolina at Chapel Hill
-  url: "politicalscience.unc.edu"
+  url: https://politicalscience.unc.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include representation, gerrymandering and redistricting, and survey research.
@@ -61,7 +61,7 @@ social:
    link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+# email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
