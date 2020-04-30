@@ -21,8 +21,8 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "f13b"
-  icon_pack = "fas"
+  icon = "html"
+  icon_pack = "fab"
   name = "HTML"
   description = "100%"  
   
