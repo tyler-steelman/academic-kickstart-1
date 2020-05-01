@@ -40,7 +40,7 @@ hero_media = "hero-academic.png"
   url = "https://sourcethemes.com/academic/docs/install/"
   label = "View Article"
   icon_pack = "fas"
-  icon = "download"
+  icon = "newspaper"
   
 # [cta_alt]
 #  url = "https://sourcethemes.com/academic/"
