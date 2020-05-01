@@ -20,9 +20,11 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Co-Director"
   company = "Political Science Subject Pool"
-  company_url = "https://pssp.web.unc.edu"
+  company_url = https://pssp.web.unc.edu
   location = "UNC Chapel Hill"
-  """
+  date_start = "2019-08-01"
+ 
+ """
 
 [[experience]]
   title = "Professor"
