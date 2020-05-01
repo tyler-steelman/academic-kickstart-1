@@ -48,8 +48,6 @@ hero_media = "hero-academic.png"
 # academic">Latest release<!-- V --></a>'
 +++
 
-**Click below to view my latest article with Virginia Gray**
+Click below to view my latest article with Virginia Gray
 
 I Choose You! Interest Group Endorsements in the 2018 US House Midterm Elections
-
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
