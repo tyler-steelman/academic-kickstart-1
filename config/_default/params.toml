@@ -86,14 +86,14 @@ phone = "919 962 3041"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "365 Hamilton Hall", city = "Chapel Hill", region = "NC", postcode = "27599", country = "United States", country_code = "US"}
+address = {street = "365 Hamilton Hall CB3265", city = "Chapel Hill", region = "NC", postcode = "27599", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "35.9114", longitude = "-79.0487"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+# directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
