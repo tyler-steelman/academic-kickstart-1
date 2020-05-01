@@ -24,14 +24,23 @@ date_format = "Jan 2006"
   location = "UNC Chapel Hill"
   date_start = "2019-08-01"
   end_date = ""
+  
+[[experience]]
+  title = "Qualtrics Consultant"
+  company = "Odum Institute"
+  company_url = "https://odum.unc.edu/qualtrics"
+  location = "UNC Chapel Hill"
+  date_start = "2017-05-01"
+  date_end = ""
+
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Replication Data Quality Reviewer"
+  company = "Odum Institute"
+  company_url = "https://odum.unc.edu/"
+  location = "UNC Chapel Hill"
+  date_start = "2019-08-01"
+  date_end = ""
+  
 
 +++
