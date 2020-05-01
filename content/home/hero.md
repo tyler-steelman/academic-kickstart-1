@@ -42,17 +42,17 @@ hero_media = "hero-academic.png"
   icon_pack = "fas"
   icon = "download"
   
-[cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
+# [cta_alt]
+#  url = "https://sourcethemes.com/academic/"
+#  label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
+**Click below to see my latest article with Virginia Gray**
 
-Build **Anything** with Widgets
+I Choose You! Interest Group Endorsements in the 2018 US House Midterm Elections
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+<span style="text-shadow: none;"><a class="github-button" href="https://twitter.com/tyler_steelman" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Follow Me!">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
