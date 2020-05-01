@@ -54,5 +54,3 @@ hero_media = "hero-academic.png"
 **Click below to see my latest article with Virginia Gray**
 
 I Choose You! Interest Group Endorsements in the 2018 US House Midterm Elections
-
-<span style="text-shadow: none;"><a class="github-button" href="https://twitter.com/tyler_steelman" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Follow Me!">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
