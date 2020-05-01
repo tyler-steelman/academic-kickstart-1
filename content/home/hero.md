@@ -46,7 +46,7 @@ hero_media = "hero-academic.png"
 # [cta_note]
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-
 # academic">Latest release<!-- V --></a>'
-# +++
+ +++
 
 Click below to view my latest article with Virginia Gray
 
