@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 5th Year PhD Candidate in American Politics
+role: PhD Candidate in American Politics
 
 # Organizations/Affiliations
 organizations:
@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-Welcome! My name is Tyler Steelman and I am a fifth year Ph.D. candidate at the University of North Carolina at Chapel Hill specializing in American politics and political psychology. Prior to coming to UNC, I received my B.A. in Political Science from High Point University and my M.A. in Political Science from Appalachian State University.
+Welcome! My name is Tyler Steelman and I am a Ph.D. candidate at the University of North Carolina at Chapel Hill specializing in American politics and political psychology. Prior to coming to UNC, I received my B.A. in Political Science from High Point University and my M.A. in Political Science from Appalachian State University.
 
 My current research focuses on non-territorial forms of representation in the United States—namely, surrogate representation. I am also currently involved in an ongoing project developing a method for redistricting using ZIP codes as the building blocks for districts. This project was recently published in the Election Law Journal. My other work can be found in Interest Groups and Advocacy and The Monkey Cage.
 
