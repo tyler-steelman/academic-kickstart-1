@@ -48,7 +48,7 @@ hero_media = "hero-academic.png"
 
 # Note. An optional note to show underneath the links.
 # [cta_note]
-#  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+#  label = '<a class="js-github-release" href="https://link.springer.com/article/10.1057%2Fs41309-020-00088-8" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
 **Click below to see my latest article with Virginia Gray**
