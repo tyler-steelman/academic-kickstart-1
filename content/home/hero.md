@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Welcome!"
+title = "New Article"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero-academic.png"
@@ -37,7 +37,7 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
+  url = "https://link.springer.com/article/10.1057%2Fs41309-020-00088-8"
   label = "View Article"
   icon_pack = "fas"
   icon = "newspaper"
@@ -51,6 +51,6 @@ hero_media = "hero-academic.png"
 #  label = '<a class="js-github-release" href="https://link.springer.com/article/10.1057%2Fs41309-020-00088-8" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**Click below to see my latest article with Virginia Gray**
+Click below to see my latest article with Virginia Gray
 
-I Choose You! Interest Group Endorsements in the 2018 US House Midterm Elections
+*I Choose You! Interest Group Endorsements in the 2018 US House Midterm Elections*
